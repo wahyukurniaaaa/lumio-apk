@@ -1,0 +1,7 @@
+{
+  "latest_version": "1.9.1",
+  "download_url": "https://github.com/wahyukurniaaaa/lumio-apk/raw/main/releases/v1.9.1/pos-v1.9.1.apk",
+  "release_notes": "- Rilis Lumio POS versi 1.9.1\n- In-app update checker ditambahkan",
+  "force_update": false,
+  "minimum_version": "1.0.0"
+}
