@@ -1,8 +1,9 @@
-# Lumio POS v1.9.1
+# Release Notes — Lumio v1.9.1
 
-## Yang Baru
-- In-app update checker: notifikasi otomatis saat ada versi baru
-- Distribusi APK langsung via GitHub tanpa perlu kirim manual
+**Build:** 21
+**Commit:** 3c1f11a
+**Tanggal:** 2026-05-18 06:55 UTC
 
-## Cara Update
-Klik tombol **Update Sekarang** saat notifikasi muncul, APK akan otomatis terdownload.
+## Perubahan
+
+Build otomatis dari CI
