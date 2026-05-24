@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.10.0",
+  "latest_version": "1.10.1",
   "download_url": "https://github.com/wahyukurniaaaa/lumio-apk/releases/latest/download/lumio.apk",
   "release_notes": "Build otomatis dari CI",
   "force_update": false,
   "minimum_version": "1.0.0",
-  "build_number": 22,
-  "released_at": "2026-05-24 15:29 UTC",
-  "commit": "680b90c"
+  "build_number": 23,
+  "released_at": "2026-05-24 23:11 UTC",
+  "commit": "3b1ba85"
 }
