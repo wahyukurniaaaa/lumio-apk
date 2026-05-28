@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.10.1",
+  "latest_version": "1.10.2",
   "download_url": "https://github.com/wahyukurniaaaa/lumio-apk/releases/latest/download/lumio.apk",
-  "release_notes": "Build otomatis dari CI",
+  "release_notes": "Lumio v1.10.2 (Build 24) — Staging Release  Fitur Baru & Penyempurnaan: - Integrasi Metode QRIS & Virtual Account (VA): Menambahkan pemilih metode pembayaran secara inline saat transaksi checkout untuk kemudahan pembayaran. - Registrasi Lebih Cepat: Menyederhanaan pendaftaran dengan meniadakan alur verifikasi manual via WhatsApp Admin di tahap awal registrasi.  Perbaikan Bug & Optimalisasi: - Perbaikan Visualisasi Data Owner: Menambahkan provider KPI dashboard yang sempat hilang (dashboard_kpi_provider.dart) agar data bisnis pemilik toko terisi akurat. - Pembenahan Navigasi Login: Halaman LoginScreen kini otomatis di-pop setelah sukses masuk agar sistem AppBootstrap langsung mengarahkan rute secara benar. - Penyempurnaan UI: Melakukan penyesuaian tata letak (UI) pada Dashboard Owner serta optimalisasi stabilitas POS providers.  Infrastruktur & Staging: - Migrasi Konektivitas API & Web: Mengarahkan koneksi aplikasi ke domain staging permanen yang baru dideploy di Easypanel (https://api-lumio.wahyukurnia.com dan https://lumio.wahyukurnia.com).",
   "force_update": false,
   "minimum_version": "1.0.0",
-  "build_number": 23,
-  "released_at": "2026-05-24 23:11 UTC",
-  "commit": "3b1ba85"
+  "build_number": 24,
+  "released_at": "2026-05-28 12:51 UTC",
+  "commit": "b72d139"
 }
