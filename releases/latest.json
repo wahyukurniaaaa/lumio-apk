@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.10.2",
+  "latest_version": "1.11.0",
   "download_url": "https://github.com/wahyukurniaaaa/lumio-apk/releases/latest/download/lumio.apk",
-  "release_notes": "Lumio v1.10.2 (Build 24) — Staging Release  Fitur Baru & Penyempurnaan: - Integrasi Metode QRIS & Virtual Account (VA): Menambahkan pemilih metode pembayaran secara inline saat transaksi checkout untuk kemudahan pembayaran. - Registrasi Lebih Cepat: Menyederhanaan pendaftaran dengan meniadakan alur verifikasi manual via WhatsApp Admin di tahap awal registrasi.  Perbaikan Bug & Optimalisasi: - Perbaikan Visualisasi Data Owner: Menambahkan provider KPI dashboard yang sempat hilang (dashboard_kpi_provider.dart) agar data bisnis pemilik toko terisi akurat. - Pembenahan Navigasi Login: Halaman LoginScreen kini otomatis di-pop setelah sukses masuk agar sistem AppBootstrap langsung mengarahkan rute secara benar. - Penyempurnaan UI: Melakukan penyesuaian tata letak (UI) pada Dashboard Owner serta optimalisasi stabilitas POS providers.  Infrastruktur & Staging: - Migrasi Konektivitas API & Web: Mengarahkan koneksi aplikasi ke domain staging permanen yang baru dideploy di Easypanel (https://api-lumio.wahyukurnia.com dan https://lumio.wahyukurnia.com).",
+  "release_notes": "Yang Baru di Versi 1.11.0 🚀 Kami menghadirkan pembaruan menarik untuk membuat awal perjalanan bisnis Anda jauh lebih mudah, lancar, dan aman!  🏪 Desain Baru Setup Toko: Nikmati tampilan pendaftaran toko dan pemilik yang kini dibagi menjadi langkah-langkah mudah, rapi, dan lebih nyaman dipandang. 🔒 Atur PIN Lebih Fleksibel: Pengguna lama yang masuk di perangkat baru kini bisa langsung mengatur PIN keamanan kustom sendiri secara langsung dan praktis. 📱 Kelola Perangkat Mandiri: Sekarang Anda bisa menonaktifkan perangkat lama yang sudah tidak terpakai secara mandiri langsung dari aplikasi apabila kuota batas perangkat Anda penuh. 🛠️ Peningkatan Kenyamanan: Perbaikan sistem keluar (logout) dan peningkatan stabilitas umum agar transaksi harian Anda berjalan lebih mulus tanpa hambatan.",
   "force_update": false,
   "minimum_version": "1.0.0",
-  "build_number": 24,
-  "released_at": "2026-05-28 12:51 UTC",
-  "commit": "b72d139"
+  "build_number": 25,
+  "released_at": "2026-05-29 10:54 UTC",
+  "commit": "27d4bd6"
 }
