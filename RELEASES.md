@@ -10,6 +10,7 @@ Download APK terbaru: [lumio.apk](https://github.com/wahyukurniaaaa/lumio-apk/re
 
 | Versi | Build | Commit | Tanggal | Download |
 |-------|-------|--------|---------|----------|
+| [v1.11.0](./releases/v1.11.0/release-notes.md) | 25 | 4e9c8de | 2026-05-30 05:22 UTC | [Download](https://github.com/wahyukurniaaaa/lumio-apk/releases/tag/v1.11.0) |
 | [v1.11.0](./releases/v1.11.0/release-notes.md) | 25 | 19a7eff | 2026-05-30 03:34 UTC | [Download](https://github.com/wahyukurniaaaa/lumio-apk/releases/tag/v1.11.0) |
 | [v1.11.0](./releases/v1.11.0/release-notes.md) | 25 | 41efe85 | 2026-05-30 01:20 UTC | [Download](https://github.com/wahyukurniaaaa/lumio-apk/releases/tag/v1.11.0) |
 | [v1.11.0](./releases/v1.11.0/release-notes.md) | 25 | 6a0739f | 2026-05-30 00:59 UTC | [Download](https://github.com/wahyukurniaaaa/lumio-apk/releases/tag/v1.11.0) |
@@ -19,6 +20,5 @@ Download APK terbaru: [lumio.apk](https://github.com/wahyukurniaaaa/lumio-apk/re
 | [v1.10.1](./releases/v1.10.1/release-notes.md) | 23 | 3b1ba85 | 2026-05-24 23:11 UTC | [Download](https://github.com/wahyukurniaaaa/lumio-apk/releases/tag/v1.10.1) |
 | [v1.10.0](./releases/v1.10.0/release-notes.md) | 22 | 680b90c | 2026-05-24 15:29 UTC | [Download](https://github.com/wahyukurniaaaa/lumio-apk/releases/tag/v1.10.0) |
 | [v1.10.0](./releases/v1.10.0/release-notes.md) | 22 | 9688980 | 2026-05-24 15:26 UTC | [Download](https://github.com/wahyukurniaaaa/lumio-apk/releases/tag/v1.10.0) |
-| [v1.10.0](./releases/v1.10.0/release-notes.md) | 22 | c4fe420 | 2026-05-24 11:24 UTC | [Download](https://github.com/wahyukurniaaaa/lumio-apk/releases/tag/v1.10.0) |
 
 > Build lebih lama tersedia di history commit repo ini.
